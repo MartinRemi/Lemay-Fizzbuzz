@@ -1,0 +1,5 @@
+jupyter
+datasets
+numpy
+wordcloud
+scipy
